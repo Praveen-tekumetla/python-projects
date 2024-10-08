@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 fpdf = "*"
+filestack-python = "*"
 
 [dev-packages]
 

@@ -36,7 +36,7 @@ while True:
     if shape_type.casefold() == "square":
         sq_x = int(input(f"Enter x of the {shape_type}: "))
         sq_y = int(input(f"Enter y of the {shape_type}: "))
-        sq_side = int(input(f"Enter width of the {shape_type}: "))
+        sq_side = int(input(f"Enter side of the {shape_type}: "))
         red = int(input(f"How much red should the {shape_type} have? "))
         green = int(input("How much green? "))
         blue = int(input("How much blue? "))

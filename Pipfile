@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 fpdf = "*"
 filestack-python = "*"
+numpy = "*"
+pillow = "*"
 
 [dev-packages]
 

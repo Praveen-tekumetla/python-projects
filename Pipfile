@@ -9,8 +9,12 @@ filestack-python = "*"
 numpy = "*"
 pillow = "*"
 qrcode = "*"
+flask = "*"
+flask-login = "*"
+flask-sqlalchemy = "*"
+faster-whisper = "*"
 
 [dev-packages]
 
 [requires]
-python_version = "3.11"
+python_version = "3.9"
